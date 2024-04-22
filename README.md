@@ -7,7 +7,8 @@ You should have a ```gcc``` compiler, the project was written in C and can only 
 
 Here is the command to run the project
 ```$ cd NewInterface/
-   $ ./main```
+   $ ./main
+```
 
 Then, the mainflow of the software is pretty simple to use, here are some images that illustrate it. If you encounter any problem, send a mail : 
 amaury.delille@epita.fr
