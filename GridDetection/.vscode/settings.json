@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "cstdlib": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
