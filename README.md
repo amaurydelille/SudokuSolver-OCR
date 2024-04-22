@@ -11,8 +11,8 @@ $ cd NewInterface/
 $ ./main
 ```
 
-Then, the mainflow of the software is pretty simple to use, here are some images that illustrate it. If you encounter any problem, send a mail : 
-amaury.delille@epita.fr
+Then, the mainflow of the software is pretty simple to use, here are some images that illustrate it. If you encounter any problem, send a mail ;) : 
+amaury.delille@epita.fr 
 
 ![Alt text](imagesrm/img1.png?raw=true "")
 ![Alt text](imagesrm/img2.png?raw=true "")
